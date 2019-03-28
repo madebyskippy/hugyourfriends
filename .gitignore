@@ -33,4 +33,4 @@ sysinfo.txt
 
 # Builds
 *.apk
-*.unitypackage
+# not for now *.unitypackage
